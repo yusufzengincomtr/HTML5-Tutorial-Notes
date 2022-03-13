@@ -1,6 +1,6 @@
 
 # ☕ HTML5 Tutorial Notes (ÖĞRETİCİ NOTLAR)
-## [Youtube'da izleyin](https://www.youtube.com/watch?v=vbxqGITBwUk)
+## [Youtube](https://www.youtube.com/channel/UCkOkVQFjxDOX9DY6YrQ56Bw)
 
 
 - Layout-Semantic
